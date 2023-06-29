@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jun 2023 09:59:18 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Thu, 29 Jun 2023 09:59:18 +0800</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>
+        
+          
+            在此次实践中，我完成了Git和Hugo的安装配置，但是在配置过程中也遇到了一些问题。 安装Git的过程比较顺利，根据老师提供的课程资料和视频直接进行安装。在hugo安装中的问题比较多，在theme安装方面一开始不了解安装路径与如何clone到本地，在上网查找资料与询问同学之后查到了问题，成功进行了theme的安装。在Markdown的使用中出现了问题，界面上会显示error的提示，最后通过使用本机系统的类似应用解决了这一问题。在.git文件的创建过程中，一开始并没有像视频里所给出的示范显示出.git文件夹，通过询问同学，了解到.git文件夹为默认隐藏文件夹，解除隐藏后成功解决了问题。在FastGithub方面的最大问题是加速慢，有时出现闪退的情况，我尝试了重新下载压缩包进行第二次下载，但是仍然无法显示界面，最后重新启动电脑解决了问题。最后一个问题就是My New Hugo Site无法打开的问题，通过老师提供的资料了解到是本地服务器的问题，通过打开本地服务器解决了问题。 最后，此次实践让我学到了很多有关于配置软件方面的问题，也意识到自己还有很多方面都不了解，今后会更加认真学习，丰富自己的知识库。
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
